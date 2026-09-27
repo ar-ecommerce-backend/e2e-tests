@@ -1,6 +1,6 @@
 # e2e-tests
 
-End-to-end API tests for the [ar-ecommerce-platform](https://github.com/ar-ecommerce-platform).
+End-to-end API tests for the [ar-ecommerce-backend](https://github.com/ar-ecommerce-backend).
 Drives the **running** platform through the gateway with REST Assured — the automated version of
 `infra/scripts/demo-flow`.
 
